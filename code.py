@@ -116,24 +116,6 @@ elif menu == "Practice Interview":
             progress.progress((i + 1) * 10)
             time.sleep(1)
 
-    # Voice Input
-    st.subheader("🎤 Voice Input (Optional)")
-    if st.button("Record Answer"):
-        r = sr.Recognizer()
-        with sr.Microphone() as source:
-            st.info("Speak now...")
-            audio = r.listen(source)
-            try:
-                text = r.recognize_google(audio)
-                st.success("Recognized:")
-                st.write(text)
-                answer = text
-            except:
-                st.error("Could not recognize speech.")
-                answer = ""
-    else:
-        answer = st.text_area("Enter your answer:")
-
     
 
     # Analyze
