@@ -10,13 +10,13 @@ This project is especially useful for students and job seekers preparing for tec
 
 ## 🚀 Key Features
 
-* 🧠 **AI-Based Answer Evaluation** using Natural Language Processing (NLP)
-* 💬 **Predefined Interview Questions** (HR-focused)
-* 📊 **Sentiment Analysis** using TextBlob
-* 🔍 **Keyword Matching** to assess relevance of answers
-* ⏱️ **Real-Time Feedback System**
-* 📈 **Performance Scoring**
-* 🌐 **Interactive UI using Streamlit**
+*  **AI-Based Answer Evaluation** using Natural Language Processing (NLP)
+*  **Predefined Interview Questions** (HR-focused)
+*  **Sentiment Analysis** using TextBlob
+*  **Keyword Matching** to assess relevance of answers
+*  **Real-Time Feedback System**
+*  **Performance Scoring**
+*  **Interactive UI using Streamlit**
 
 ---
 
@@ -85,10 +85,10 @@ streamlit run app.py
 
 ## 📊 Evaluation Criteria
 
-* ✔️ Relevance to question
-* ✔️ Use of important keywords
-* ✔️ Positive/neutral sentiment
-* ✔️ Clarity of response
+*  Relevance to question
+*  Use of important keywords
+*  Positive/neutral sentiment
+*  Clarity of response
 
 ---
 
@@ -103,11 +103,11 @@ streamlit run app.py
 
 ## 🔮 Future Enhancements
 
-* 🎤 Voice input and speech analysis
-* 🤖 Integration with advanced AI models (like GPT)
-* 📹 Video-based interview analysis
-* 📊 Dashboard for tracking progress
-* 🌍 Multi-language support
+*  Voice input and speech analysis
+*  Integration with advanced AI models (like GPT)
+*  Video-based interview analysis
+*  Dashboard for tracking progress
+*  Multi-language support
 
 ---
 
